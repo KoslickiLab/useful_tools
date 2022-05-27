@@ -1,6 +1,6 @@
 # Simulate metagenomic reads by CAMISIM
 
-CAMISIM is a powerful metagenomic simulator. Though BBMap is extremly simple and fast, you'll need CAMISIM for publication purpose (credit to Dr. Koclicki). CAMISIM can provide sample composition, alignment, and profile for simulation, making benchmark process friendly.
+CAMISIM is a powerful metagenomic simulator. Though BBMap is extremly simple and fast, you'll need CAMISIM for publication purpose (credit to Dr. Koslicki). CAMISIM can provide sample composition, alignment, and profile for simulation, making benchmark process friendly.
 
 reference:
 1. [CAMISIM github page](https://github.com/CAMI-challenge/CAMISIM)
